@@ -1,0 +1,250 @@
+[
+    {
+        "user": "U049EFX7140",
+        "type": "message",
+        "ts": "1725332206.634569",
+        "client_msg_id": "86b210f8-1975-4d31-ae21-064093191ae1",
+        "text": "<https:\/\/medium.com\/musinsa-tech\/%EB%AC%B4%EC%A7%84%EC%9E%A5-%EB%B8%94%EB%9E%99-%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4-%EA%B0%80%EA%B2%A9-%ED%95%A0%EC%9D%B8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%A0%EA%B9%8C-6f8517b5795a|무진장 블랙 프라이데이 가격 할인은 어떻게 할까?>\nby 한지웅님 무신사 프로모션\/쿠폰 영역 백엔드 개발자\n• *목차*\n    ◦ 문제 정의\n    ◦ 운영 프로세스 개선\n    ◦ 세일(할인) 구조 개선\n    ◦ 파트너 참여(ing)\n    ◦ 결과",
+        "team": "T019M4VPH9P",
+        "user_team": "T019M4VPH9P",
+        "source_team": "T019M4VPH9P",
+        "user_profile": {
+            "avatar_hash": "8c73e076ae66",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-12-21\/4548072231090_8c73e076ae66c1023cdb_72.png",
+            "first_name": "문명진",
+            "real_name": "문명진",
+            "display_name": "문명진_Martinee\/Growth",
+            "team": "T019M4VPH9P",
+            "name": "myungjin.moon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/miro.medium.com\/v2\/resize:fit:1200\/1*E4dAl3avDQECvy-Xhx1usg.png",
+                "image_width": 1200,
+                "image_height": 823,
+                "image_bytes": 169907,
+                "from_url": "https:\/\/medium.com\/musinsa-tech\/%EB%AC%B4%EC%A7%84%EC%9E%A5-%EB%B8%94%EB%9E%99-%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4-%EA%B0%80%EA%B2%A9-%ED%95%A0%EC%9D%B8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%A0%EA%B9%8C-6f8517b5795a",
+                "service_icon": "https:\/\/miro.medium.com\/v2\/resize:fill:304:304\/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+                "ts": 1725257867,
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/musinsa-tech\/%EB%AC%B4%EC%A7%84%EC%9E%A5-%EB%B8%94%EB%9E%99-%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4-%EA%B0%80%EA%B2%A9-%ED%95%A0%EC%9D%B8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%A0%EA%B9%8C-6f8517b5795a",
+                "fallback": "Medium: 무진장 블랙 프라이데이 가격 할인은 어떻게 할까?",
+                "text": "이번 겨울 “무진장 블랙프라이데이”를 앞두고 2023년 거래액 3,000억 원을 달성했던 ‘무진장 블프’의 준비 과정을 공유합니다. 무신사의 가격 체계가 어떻게 구성되어 있으며, 40만 개에 달하는 상품에 세일을 어떻게 적용했었는지 알려 드립니다.",
+                "title": "무진장 블랙 프라이데이 가격 할인은 어떻게 할까?",
+                "title_link": "https:\/\/medium.com\/musinsa-tech\/%EB%AC%B4%EC%A7%84%EC%9E%A5-%EB%B8%94%EB%9E%99-%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4-%EA%B0%80%EA%B2%A9-%ED%95%A0%EC%9D%B8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%A0%EA%B9%8C-6f8517b5795a",
+                "service_name": "Medium",
+                "fields": [
+                    {
+                        "value": "9 min read",
+                        "title": "Reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kyewf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/musinsa-tech\/%EB%AC%B4%EC%A7%84%EC%9E%A5-%EB%B8%94%EB%9E%99-%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4-%EA%B0%80%EA%B2%A9-%ED%95%A0%EC%9D%B8%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%A0%EA%B9%8C-6f8517b5795a",
+                                "text": "무진장 블랙 프라이데이 가격 할인은 어떻게 할까?"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nby 한지웅님 무신사 프로모션\/쿠폰 영역 백엔드 개발자\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "목차",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "문제 정의"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "운영 프로세스 개선"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "세일(할인) 구조 개선"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "파트너 참여(ing)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "결과"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "2997-cat-okay",
+                "users": [
+                    "U068V0R5S0G",
+                    "U047RQS2T6F",
+                    "U067ZHJC68N",
+                    "U03EYPWNU9F",
+                    "U04ATSFG4R2"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U047F0U6DNC",
+        "type": "message",
+        "ts": "1725346503.184639",
+        "client_msg_id": "3b7fe2a7-5e9c-4172-88ec-a88b2d92c1a7",
+        "text": "*알라미에서 DAU를 분석하는 방법  (<https:\/\/m.blog.naver.com\/PostView.naver?blogId=leoyang99&amp;logNo=223570520810&amp;proxyReferer=https:%2F%2Fwww.linkedin.com%2F&amp;trackingCode=external|링크>)*",
+        "team": "T019M4VPH9P",
+        "user_team": "T019M4VPH9P",
+        "source_team": "T019M4VPH9P",
+        "user_profile": {
+            "avatar_hash": "8825f1929638",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-12-21\/6390635303537_8825f1929638cf813b62_72.png",
+            "first_name": "김주아",
+            "real_name": "김주아",
+            "display_name": "김주아_Martinee\/Growth",
+            "team": "T019M4VPH9P",
+            "name": "jooah.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/blogthumb.pstatic.net\/MjAyNDA5MDNfMzAg\/MDAxNzI1MzI4OTU0MDIz.Hnd4H1bPyzAV7A2Loe6dl0afovkVHed3SwuRYwBKcRog._XKK-NBHReLcUHCtBgH5JHuOeuY4vpISiQcto8PwSBIg.PNG\/1_vn5e1tRz1dESNFcxd3-t1A.png?type=w2",
+                "image_width": 743,
+                "image_height": 488,
+                "image_bytes": 118083,
+                "from_url": "https:\/\/m.blog.naver.com\/PostView.naver?blogId=leoyang99&logNo=223570520810&proxyReferer=https:%2F%2Fwww.linkedin.com%2F&trackingCode=external",
+                "service_icon": "https:\/\/m.blog.naver.com\/blog_96x96.png",
+                "id": 1,
+                "original_url": "https:\/\/m.blog.naver.com\/PostView.naver?blogId=leoyang99&amp;logNo=223570520810&amp;proxyReferer=https:%2F%2Fwww.linkedin.com%2F&amp;trackingCode=external",
+                "fallback": "네이버 블로그 | 스타트업 다이어리: 알라미에서 DAU를 분석하는 방법",
+                "text": "(이 글은 제가 근무하고 있는 딜라이트룸 제품 블로그에도 동일하게 포스팅되었습니다.) 여러분의 DAU ...",
+                "title": "알라미에서 DAU를 분석하는 방법",
+                "title_link": "https:\/\/m.blog.naver.com\/PostView.naver?blogId=leoyang99&logNo=223570520810&proxyReferer=https:%2F%2Fwww.linkedin.com%2F&trackingCode=external",
+                "service_name": "네이버 블로그 | 스타트업 다이어리"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o5E1c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "알라미에서 DAU를 분석하는 방법  (",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/m.blog.naver.com\/PostView.naver?blogId=leoyang99&logNo=223570520810&proxyReferer=https:%2F%2Fwww.linkedin.com%2F&trackingCode=external",
+                                "text": "링크",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ")",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "감사합니다",
+                "users": [
+                    "U067ZHJC68N",
+                    "U033BGZJE4C",
+                    "U0502MKT8TV",
+                    "U04ATSFG4R2"
+                ],
+                "count": 4
+            },
+            {
+                "name": "bulb",
+                "users": [
+                    "U067ZHJC68N",
+                    "U0502MKT8TV",
+                    "U04ATSFG4R2"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]
